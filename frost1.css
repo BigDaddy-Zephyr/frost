@@ -1,0 +1,134 @@
+.emo {
+	font-size: 25px;
+	text-align: center;
+}
+
+.border {
+	border-radius: 50%;
+}
+
+
+
+.hey{
+
+	line-height: 0; margin-top: 50px;
+
+
+}
+
+
+
+body{
+
+	margin:100px 0; 
+    padding:0;
+    text-align:center;
+
+}
+
+.margin {
+	margin-left: 35%;
+	margin-right: 35%;
+	justify-content: center;
+}
+
+.marginimage {
+	justify-content: center;
+	margin-right: 21em;
+	margin-left: 21em;
+
+}
+
+
+footer{
+
+   position:absolute;
+   bottom:0;
+
+
+}
+
+.first {
+		font-size: 21px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+
+	color: #4A5577;
+
+}
+
+.line {
+
+	font-family: Arial, Helvetica, sans-serif;
+	
+	justify-content: center;
+	text-align: left;
+	margin-left: 25%;
+	color: rgb(124, 122, 132);
+}
+
+
+
+
+
+@media screen and (min-width:600px) and (max-width: 1200px) {
+	body {
+
+
+		padding-top: 100px;
+		 /*background-color: #0096D6*/
+		 /*font-size: 100px;*/
+	}
+	.imagee{
+
+	width: 5%
+
+}
+	.emo{
+
+		font-size: 50px;
+	}
+
+	.hey{
+
+		padding-bottom: 20px;
+
+
+	}
+
+	.line {
+		/*margin-left: 10px;*/
+		/*margin-right: px;*/
+		font-size: 30px;
+		margin-left: 3%
+		/*padding-bottom: 20px;*/
+
+	}
+
+footer{
+		margin-left: 3%;
+		margin-right: 3%;
+		font-size: 15px;
+		/*position: absolute;*/
+
+
+
+}
+	.margin {
+		margin-left: 10%;
+		margin-right: 10%;
+		font-size: 50px;
+	}
+	.marginimage{
+		margin-right: 2%;
+		margin-left: 3%;
+		font-size: 50px;
+	}
+	.border {
+	}
+	 {
+		color: rgb(184, 10, 10);
+		font-size: 25px;
+	}
+	
+}
